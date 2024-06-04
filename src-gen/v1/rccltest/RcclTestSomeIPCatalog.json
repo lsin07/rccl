@@ -1,0 +1,8 @@
+{
+    "rccltest.RcclTest" : {
+        "service_id": 4660,
+        "instances" : {
+            "RcclTest": 22136
+        }
+    }
+}
