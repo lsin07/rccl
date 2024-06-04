@@ -1,0 +1,9 @@
+[submodule "capicxx-core-runtime"]
+	path = capicxx-core-runtime
+	url = https://github.com/COVESA/capicxx-core-runtime
+[submodule "capicxx-someip-runtime"]
+	path = capicxx-someip-runtime
+	url = https://github.com/COVESA/capicxx-someip-runtime
+[submodule "vsomeip"]
+	path = vsomeip
+	url = https://github.com/COVESA/vsomeip
